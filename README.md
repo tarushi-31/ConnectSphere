@@ -1,6 +1,6 @@
-# PostNChat
+# ConnectSphere
 
-PostNChat is a social media platform that enables users to connect and communicate in real-time. The platform integrates chat functionality with social media features, allowing users to post, share, and chat seamlessly with others. It's built using React for the frontend and Node.js/Express with Socket.io for real-time communication in the backend.
+ConnectSphere is a social media platform that enables users to connect and communicate in real-time. The platform integrates chat functionality with social media features, allowing users to post, share, and chat seamlessly with others. It's built using React for the frontend and Node.js/Express with Socket.io for real-time communication in the backend.
 
 ## Features
 
@@ -33,11 +33,11 @@ Ensure you have the following installed on your machine:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/clay108/PostNChat.git
+   git clone https://github.com/tarushi-31/ConnectSphere/tree/master
    ```
 2.Install the dependencies:
   ```bash
-    cd PostNChat
+    cd ConnectSphere
     npm install
   ```
 3.Create a .env file in the root directory and add the following environment variables:
